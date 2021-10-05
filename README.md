@@ -1,11 +1,11 @@
-# Zero Point
+# getzeropoint.com
 Get your project up to zero.
 
 ![Deploy a copy of this template to Netlify](https://www.netlify.com/img/deploy/button.svg)
 
-[Create a new page](https://github.com/MWDelaney/ZeroPoint/new/master/?filename=/src/pages/&value=---%0Atitle%3A%20New%20Little%20World%0A---)
+[Create a new page](https://github.com/MWDelaney/getzeropoint.com/new/master/?filename=/src/pages/&value=---%0Atitle%3A%20New%20Little%20World%0A---)
 
-[Edit the navigation](https://github.com/MWDelaney/ZeroPoint/edit/master/src/data/navigation.json)
+[Edit the navigation](https://github.com/MWDelaney/getzeropoint.com/edit/master/src/data/navigation.json)
 
 <!-- 
 
