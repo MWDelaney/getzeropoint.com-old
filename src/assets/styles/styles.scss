@@ -2,8 +2,9 @@
 @import "reset.scss";
 
 body {
-  color: var(--text-color);
+  color: var(--color);
   background-color: var(--background-color);
+  font-family: var(--font);
 }
 
 .visually-hidden {
@@ -14,4 +15,76 @@ body {
   position: absolute;
   white-space: nowrap;
   width: 1px;
+}
+
+.logo {
+  margin-top: calc(var(--unit) * 5);
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  max-width: calc(var(--unit) * 30);
+
+  svg {
+    max-width: 100%;
+    height: auto;
+    transform: translateX(-12%);
+
+    > * {
+      background-clip: text;
+      color: transparent;
+      stroke: url(#ZeroPointGradient);
+      fill: url(#ZeroPointGradient);
+    }
+  }
+}
+
+.button {
+  padding: var(--unit);
+  text-decoration: none;
+  color: var(--primary-color);
+  border: 1px solid var(--primary-color);
+  border-radius: var(--radius);
+  transition: var(--transition);
+
+  &:hover {
+    background-color: var(--primary-color);
+    color: #fff;
+  }
+}
+
+header,
+footer {
+  text-align: center;
+  padding-left: var(--unit);
+  padding-right: var(--unit);
+}
+
+section {
+  margin-top: calc(var(--unit) * 3);
+  max-width: 60ch;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: var(--unit);
+  padding-right: var(--unit);
+
+  &.get-started {
+    text-align: center;
+    padding-bottom: calc(var(--unit) * 3);
+  }
+}
+
+hr {
+  border: 0;
+  height: 2px;
+  background-image: var(--gradient);
+  border-radius: var(--unit);
+  transform: rotate(-1.5deg);
+  text-align: center;
+  max-width: 40ch;
+  margin-left: 0;
+}
+
+footer {
+  margin-top: calc(var(--unit) * 5);
+  font-size: 70%;
 }

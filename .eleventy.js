@@ -2,6 +2,7 @@ const passthroughs = require('./src/config/passthroughs');
 const collections = require('./src/config/collections');
 const filters = require('./src/config/filters');
 const watchtargets = require('./src/config/watchtargets');
+const plugins = require('./src/config/plugins');
 
 module.exports = function (eleventyConfig) {
 
@@ -23,6 +24,11 @@ module.exports = function (eleventyConfig) {
   // Watch these files for changes from /src/config/watchTargets.js
   Object.keys(watchtargets).forEach((watchtargetName) => {
     eleventyConfig.addWatchTarget(watchtargets[watchtargetName]())
+  });
+
+  // Add Eleventy plugins from /src/config/plugins.js
+  Object.keys(plugins).forEach((pluginName) => {
+    eleventyConfig.addPlugin(plugins[pluginName]())
   });
 
   /**
