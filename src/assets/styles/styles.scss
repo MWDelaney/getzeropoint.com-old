@@ -32,8 +32,7 @@ body {
     > * {
       background-clip: text;
       color: transparent;
-      stroke: url(#getzeropoint.comGradient);
-      fill: url(#getzeropoint.comGradient);
+      fill: url(#ZeroPointGradient);
     }
   }
 }
@@ -87,4 +86,8 @@ hr {
 footer {
   margin-top: calc(var(--unit) * 5);
   font-size: 70%;
+}
+
+h3 {
+  margin-top: var(--unit);
 }
