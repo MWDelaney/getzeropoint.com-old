@@ -45,9 +45,15 @@ body {
   border-radius: var(--radius);
   transition: var(--transition);
 
-  &:hover {
-    background-color: var(--primary-color);
-    color: #fff;
+  &-launch {
+    &:hover {
+      background-color: var(--primary-color);
+      color: #fff;
+    }
+  }
+
+  &-code {
+    border: 0;
   }
 }
 
