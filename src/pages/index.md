@@ -25,8 +25,10 @@ name: Michael W. Delaney
 <section class="get-started">
   <a class="button button-launch" href="https://github.com/MWDelaney/ZeroPoint/generate">
     Start from Zero
-  </a> 
-  <a class="button button-code" href="https://github.com/MWDelaney/ZeroPoint">or look at the code</a>
+  </a>
+  <a class="button button-code" href="https://github.com/MWDelaney/ZeroPoint">
+    or look at the code
+  </a>
 </section>
 
 <section class="what">
