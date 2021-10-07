@@ -35,9 +35,9 @@ name: Michael W. Delaney
   <h2>What is <em>ZeroPoint</em>?</h2>
   <hr>
   <p>
-    Starting a web project can be exhusting and modern user-friendly web design services and content management systems can be expensive and lock you into a platform you might not want to stay with long-term.
+    Starting a web project can be exhusting, and modern user-friendly web design services and content management systems can be expensive and lock you into a platform you might not want to stay with long-term.
   </p>
-  <p><em>ZeroPoint</em> is a free, new-user oriented website starter designed to walk you through creating, editing, and publishing a personal, professional, just fun website all on your own.</p>
+  <p><em>ZeroPoint</em> is a free, new-user friendly website starter and website generator designed to walk you through creating, editing, and publishing any web project; from a personal blog, to a business website!</p>
 </section>
 
 <section class="what-really">
