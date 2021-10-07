@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ZeroPoint Website Starter
+title: ZeroPoint Website Starter | Built with Eleventy, designed for use with Netlify
 desc: An Eleventy website starter project designed to get you 'up to zero' and able to start working quickly. Designed for new users and professionals alike!
 image: /assets/images/zeropoint-logo.png
 alt: ZeroPoint Logo
