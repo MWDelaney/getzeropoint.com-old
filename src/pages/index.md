@@ -42,7 +42,7 @@ name: Michael W. Delaney
   <h2>Okay but what is <em>ZeroPoint</em> really?</h2>
   <hr>
   <p>
-  <em>ZeroPoint</em> is a static site generator built using <a href="https://eleventy.dev">Eleventy</a> and designed to smooth the process of using <a href="https://github.com">GitHub</a> and <a href="http://netlify.com">Netlify<a> to edit and launch websites of all sizes.
+  <em>ZeroPoint</em> is a static site generator built using <a href="https://eleventy.dev">Eleventy</a> and designed to smooth the process of using <a href="https://github.com">GitHub</a> and <a href="http://netlify.com">Netlify</a> to edit and launch websites of all sizes.
 
   <h3>For new users</h3>
   <p>ZeroPoint is a free, new-user-friendly website starter designed to walk you through creating and publishing a fast, secure web project using modern tools and technology. zeropoint makes it easy to "get up to zero" and start building your site.</p>

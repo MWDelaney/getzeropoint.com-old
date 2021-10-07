@@ -7,6 +7,10 @@ body {
   font-family: var(--font);
 }
 
+a {
+  color: var(--primary-color);
+}
+
 .visually-hidden {
   clip: rect(0 0 0 0);
   clip-path: inset(50%);
