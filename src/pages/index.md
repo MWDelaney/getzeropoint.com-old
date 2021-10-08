@@ -52,8 +52,10 @@ name: Michael W. Delaney
   <h3>For experienced developers</h3>
   <p>ZeroPoint is a modern, opinionated, bare-bones Jamstack starter using Eleventy to get "up to zero" on a project quickly and easily. Why you might choose ZeroPoint as your Jamstack starter:</p>
   <ul>
-    <li>GitHub Action renames ZeroPoint to your project name</li>
-    <li>Sass-powered CSS system</li>
-    <li>Webpack to compile Javascript</li>
+    <li>Powered by Eleventy, which <a href="http://11ty.rocks">rocks!</a>
+    <li>No CSS frameworks or libraries; use whatever you want</li>
+    <li>GitHub Action replaces the ZeroPoint name throughout the site with your project's name!</li>
+    <li>Sass for CSS</li>
+    <li>Webpack for Javascript</li>
     <li>Browsersync to preview your work</li>
 </section>

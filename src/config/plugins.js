@@ -1,7 +1,8 @@
-const metagen = require('eleventy-plugin-metagen');
 
 module.exports = {
   metagen: function () {
+    let metagen = require('eleventy-plugin-metagen');
     return metagen;
   }
+
 }
