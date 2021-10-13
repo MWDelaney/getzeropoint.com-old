@@ -1,5 +1,6 @@
 @import "branding";
 @import "reset.scss";
+@import "../../../node_modules/speedlify-score/speedlify-score";
 
 body {
   color: var(--color);
@@ -104,4 +105,8 @@ footer {
 
 h3 {
   margin-top: var(--unit);
+}
+
+speedlify-score {
+  justify-content: center !important;
 }

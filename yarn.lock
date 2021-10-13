@@ -5492,6 +5492,11 @@ spdx-license-ids@^3.0.0:
   resolved "https://registry.npmjs.org/spdx-license-ids/-/spdx-license-ids-3.0.6.tgz"
   integrity sha512-+orQK83kyMva3WyPf59k1+Y525csj5JejicWut55zeTWANuN17qSiSLUXWtzHeNWORSvT7GLDJ/E/XiIWoXBTw==
 
+speedlify-score@^2.0.2:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/speedlify-score/-/speedlify-score-2.0.2.tgz#44c5f49ca33dd7d58e096570c486d943ba8c7f38"
+  integrity sha512-FAFunl3H/faGETUX0tMh/fU0CZs5afqPR6Qm3I8xPVo9iLOZVhiDA6pUm5owXq4rSEb45y3Pf8iJqE6DmZiNvA==
+
 sprintf-js@~1.0.2:
   version "1.0.3"
   resolved "https://registry.npmjs.org/sprintf-js/-/sprintf-js-1.0.3.tgz"
