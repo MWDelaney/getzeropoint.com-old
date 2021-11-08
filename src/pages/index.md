@@ -34,19 +34,28 @@ name: Michael W. Delaney
   <h2>What is <em>ZeroPoint</em>?</h2>
   <hr>
   <p>
-    Starting a web project can be exhusting, and modern user-friendly web design services and content management systems can be expensive and lock you into a platform you might not want to stay with long-term.
+    <em>ZeroPoint</em> is a free, new-user-friendly website starter project designed to walk you through creating, editing, and publishing any web project; from a personal blog, to a company website!
   </p>
-  <p><em>ZeroPoint</em> is a free, new-user friendly website starter and website generator designed to walk you through creating, editing, and publishing any web project; from a personal blog, to a business website!</p>
+  <h3>Starting a web project can be exhusting!</h3>
+  <p>
+    Static Site Generators like <a href="https://11ty.dev">Eleventy</a> and the <a href="https://jamstack.org">Jamstack</a> in general are amazing, but an <abbr title="Static Site Generator">SSG</abbr> usually requires some time and troubleshooting to get Javascript and <abbr title="Cascading Stylesheets">CSS</abbr> loading, and to get all your pages and assets organized.
+  </p>
+  <p>
+    <em>Most importantly it can be difficult for new users to know where to start!</em>
+  </p>
+  <p>
+    ZeroPoint aims to get you started faster.
+  </p>
 </section>
 
 <section class="what-really">
   <h2>Okay but what is <em>ZeroPoint</em> really?</h2>
   <hr>
   <p>
-  <em>ZeroPoint</em> is a static site generator built using <a href="https://eleventy.dev">Eleventy</a> and designed to smooth the process of using <a href="https://github.com">GitHub</a> and <a href="http://netlify.com">Netlify</a> to edit and launch websites of all sizes.
+  <em>ZeroPoint</em> is static website starter project built around <a href="https://eleventy.dev">Eleventy</a> and designed to speed up the process of using <a href="https://github.com">GitHub</a> and <a href="http://netlify.com">Netlify</a> to edit and launch websites of all sizes.
 
   <h3>For new users</h3>
-  <p>ZeroPoint is a free, new-user-friendly website starter designed to walk you through creating and publishing a fast, secure web project using modern tools and technology. zeropoint makes it easy to "get up to zero" and start building your site.</p>
+  <p>ZeroPoint is a free, new-user-friendly website starter designed to walk you through creating and publishing a fast, secure web project using modern tools and technology. ZeroPoint makes it easy to "get up to zero" and start building your site.</p>
 
   <h3>For experienced developers</h3>
   <p>ZeroPoint is a modern, opinionated, bare-bones Jamstack starter using Eleventy to get "up to zero" on a project quickly and easily. Why you might choose ZeroPoint as your Jamstack starter:</p>
