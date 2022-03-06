@@ -64,6 +64,6 @@ name: Michael W. Delaney
     <li>No CSS frameworks or libraries; use whatever you want</li>
     <li>GitHub Action replaces the ZeroPoint name throughout the site with your project's name!</li>
     <li>Sass for CSS</li>
-    <li>Webpack for Javascript</li>
+    <li>Compilation and minification for Javascript</li>
     <li>Browsersync to preview your work</li>
 </section>
